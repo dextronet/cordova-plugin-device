@@ -1,0 +1,13 @@
+{
+  "name": "cordova-plugin-device",
+  "version": "0.2.11",
+  "description": "Cordova Device Plugin",
+  "cordova": {
+    "id": "cordova-plugin-device",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "github:dextronet/cordova-plugin-device"
+}
